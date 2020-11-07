@@ -16,6 +16,6 @@
 
 **Summary:**<br>
 
-* lime是通过线性模型去逼近网络的决策过程，其可解释的核心是线性模型对于每个feature的权重 $w$  <br>
+* lime是通过线性模型去逼近网络的决策过程，其可解释的核心是线性模型对于每个feature的权重w  <br>
 
 <img src="img/lime.png" width = "500" height = "300" alt="" align=center />
